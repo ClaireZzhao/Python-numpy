@@ -13,4 +13,4 @@
   - permutation
   - uniform
 
-# 数据标准化
+- 数据标准化
